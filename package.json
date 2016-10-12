@@ -1,0 +1,21 @@
+{
+  "name": "test-webpack-library",
+  "version": "1.0.0",
+  "main": "./lib/yourlib.js",
+  "scripts": {
+    "build": "webpack",
+    "start": "webpack-dev-server"
+  },
+  "keywords": [],
+  "author": "nkint, nootropic.kint@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "babel-core": "^6.17.0",
+    "babel-loader": "^6.2.5",
+    "babel-preset-es2015": "^6.16.0",
+    "webpack": "^1.13.2",
+    "webpack-dev-server": "^1.16.2"
+  },
+  "devDependencies": {},
+  "description": "Test webpack export local var MWE (minimum working example)"
+}
