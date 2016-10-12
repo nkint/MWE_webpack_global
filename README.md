@@ -1,4 +1,4 @@
-# Test webpack export local var MWE (minimum working example)
+# Test webpack export global var MWE (minimum working example)
 
 Do you have to export a project for some jquery guy?
 Do you need your project as a global HTML variable to be used in a `<script>` tag?

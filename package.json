@@ -17,5 +17,5 @@
     "webpack-dev-server": "^1.16.2"
   },
   "devDependencies": {},
-  "description": "Test webpack export local var MWE (minimum working example)"
+  "description": "Test webpack export global var MWE (minimum working example)"
 }
